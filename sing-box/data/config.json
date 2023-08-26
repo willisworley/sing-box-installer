@@ -28,7 +28,7 @@
         "type": "hysteria",
         "tag": "hysteria-in",
         "listen": "0.0.0.0",
-        "listen_port": 10080,
+        "listen_port": 80,
         "domain_strategy": "ipv4_only",
         "up_mbps": 50,
         "down_mbps": 50,
@@ -55,7 +55,7 @@
         "type": "naive",
         "tag": "naive-in",
         "listen": "0.0.0.0",
-        "listen_port": 8090,
+        "listen_port": 443,
         "domain_strategy": "ipv4_only",
         "users": [
           {
