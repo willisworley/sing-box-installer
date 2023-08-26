@@ -225,7 +225,7 @@ echo ' |_| \_\__,_|\__, | |____/|_|_| |_|\__, | '
 echo '             |___/                 |___/  '
 
 # ------------vars-----------、
-gitRowUrl="https://raw.githubusercontent.com/RayWangQvQ/sing-box-installer/main"
+gitRowUrl="https://raw.githubusercontent.com/willisworley/sing-box-installer/main"
 
 proxy_name=""
 proxy_pwd=""
